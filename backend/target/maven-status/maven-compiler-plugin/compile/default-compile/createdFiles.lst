@@ -1,0 +1,8 @@
+com\medicare\api\controller\HealthController.class
+com\medicare\api\controller\AuthController.class
+com\medicare\api\repository\UserRepository.class
+com\medicare\api\MediCareApplication.class
+com\medicare\api\entity\User.class
+com\medicare\api\config\SecurityConfig.class
+com\medicare\api\dto\ApiMessage.class
+com\medicare\api\entity\Role.class
